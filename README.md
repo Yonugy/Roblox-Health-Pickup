@@ -38,3 +38,15 @@ for _, healthPickup in ipairs(healthPickups) do
 end
 ```
 This **script** is stored in the **ServerScriptService** while the pre-created **Health Pickups** are stored in a folder in the **Workspace**
+
+- Healing script in ServerScriptService<br>
+![image](https://github.com/user-attachments/assets/14f35dbd-b886-4f56-8640-9de35ed86211)
+
+- Health Pickups folder with Health Pickups in Workspace<br>
+![image](https://github.com/user-attachments/assets/75f3a6e6-c3e3-4feb-bb9d-b1c0c786f631)
+
+
+
+
+
+
