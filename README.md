@@ -1,9 +1,9 @@
 # Health Pickup Demo
-This project mainly focuses health pickup in Roblox game.<br>
-There is also asid rain feature in the project to demo deduct the player's health to be heal by the Health Pickups.
+This project mainly focuses on health pickup in Roblox game.<br>
+There is also an acid rain feature in the project to demo deduct the player's health to be healed by the Health Pickups.
 
 # How to use it
-Download the file and open in Roblox Studio
+Download the file and open it in Roblox Studio
 
 # Script for health pickup healing
 ```
