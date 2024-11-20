@@ -45,6 +45,11 @@ This **script** is stored in the **ServerScriptService** while the pre-created *
 - Health Pickups folder with Health Pickups in Workspace<br>
 ![image](https://github.com/user-attachments/assets/75f3a6e6-c3e3-4feb-bb9d-b1c0c786f631)
 
+# Object Model
+HealthPickup:<br>
+![image](https://github.com/user-attachments/assets/4edf0d3a-d3e7-42dd-92f2-4ea082203d89)
+
+
 
 
 
