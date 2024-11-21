@@ -47,7 +47,7 @@ This **script** is stored in the **ServerScriptService** while the pre-created *
 
 # Object Model
 HealthPickup:<br>
-![image](https://github.com/user-attachments/assets/4edf0d3a-d3e7-42dd-92f2-4ea082203d89)
+![image](https://github.com/user-attachments/assets/baf04067-31cd-472a-a9c5-b2af1e8c49ab)
 
 
 
